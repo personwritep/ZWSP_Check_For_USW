@@ -2,7 +2,7 @@
 // @name        ZWSP Check for USW
 // @namespace        http://tampermonkey.net/
 // @version        202501.27.01
-// @description        Userstyles.world の登録コードのゼロ幅スペースを告知する
+// @description        UserStyles.world の登録コードのゼロ幅スペースを告知する
 // @author        Userstyles.world User
 // @match        https://userstyles.world/edit/*
 // @match        https://userstyles.world/style/*
