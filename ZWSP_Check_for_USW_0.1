@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ZWSP Check For USW
+// @name        ZWSP Check for USW
 // @namespace        http://tampermonkey.net/
 // @version        202501.27.01
 // @description        Userstyles.world の登録コードのゼロ幅スペースを告知する
@@ -8,8 +8,8 @@
 // @match        https://userstyles.world/style/*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=userstyles.world
 // @grant        none
-// @updateURL        https://github.com/personwritep/ZWSP_Check_For_USW/raw/main/ZWSP_Check_For_USW.user.js
-// @downloadURL        https://github.com/personwritep/ZWSP_Check_For_USW/raw/main/ZWSP_Check_For_USW.user.js
+// @updateURL        https://github.com/personwritep/ZWSP_Check_for_USW/raw/main/ZWSP_Check_for_USW.user.js
+// @downloadURL        https://github.com/personwritep/ZWSP_Check_for_USW/raw/main/ZWSP_Check_for_USW.user.js
 // ==/UserScript==
 
 
