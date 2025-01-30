@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        ZWSP Check for USW
 // @namespace        http://tampermonkey.net/
-// @version        202501.27.01
+// @version        0.1
 // @description        UserStyles.world の登録コードのゼロ幅スペースを告知する
 // @author        Userstyles.world User
 // @match        https://userstyles.world/edit/*
